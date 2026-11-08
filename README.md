@@ -36,9 +36,3 @@ npm run server
 ```
 npm run serve
 ```
-
-**Do not forget to push your changes when you are done.**
-
-**Do not make any changes to your repo after the end of the exam.**
-
-If we observe **suspicious behavior** (all commits at the end of the exam, a non-realistic timeline, too many similarities between projects, etc.) the student involved will be called for an interview.
