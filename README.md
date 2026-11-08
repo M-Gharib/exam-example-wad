@@ -37,21 +37,6 @@ npm run server
 npm run serve
 ```
 
-## Project structure
-```
-server/
-  database.js            DB connection + table creation + initial records
-  server.js              Express back-end (REST API)        <- Tasks 9-12
-src/
-  App.vue                navigation bar + <router-view>
-  router/index.js        two routes: "/" and "/screeningmanagement"
-  views/
-    AllScreenings.vue        home page                      <- Tasks 1-4
-    ScreeningManagement.vue  management page                <- Tasks 5-8
-```
-
-
-
 **Do not forget to push your changes when you are done.**
 
 **Do not make any changes to your repo after the end of the exam.**
