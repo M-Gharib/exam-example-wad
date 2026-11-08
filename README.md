@@ -50,11 +50,7 @@ src/
     ScreeningManagement.vue  management page                <- Tasks 5-8
 ```
 
-## Repo Setup
-Follow the instructions in the exam description (import the repository to your own **private** GitHub repository and add the instructor as a collaborator).
 
-## Important notes
-**Commit and push changes** to your repo **after finishing each task**, using the task name as the commit message (e.g. `Task 3`).
 
 **Do not forget to push your changes when you are done.**
 
